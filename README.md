@@ -39,4 +39,4 @@ Debugs can be run with `npm run debug`.
 
 ## Contributors
 
-- Frederick Tetteh (Sole Developer)
+- Augustine Tetteh (Sole Developer)
